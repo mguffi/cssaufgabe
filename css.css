@@ -1,12 +1,11 @@
 body {
 font-family: Lato, sans-serif;
-}
-h1 {
-width: 100%; 
-font-weight: lighter; 
-text-align: center; width: 100% wird die Überschrift hier mittig angezeigt.
+}h1 {
+width: 100%;
+font-weight: lighter;
+text-align: center;
 font-size: 40px;
-color: indianred; 
+color: indianred; Farben: http://www.w3schools.com/cssref/css_colors.asp
 }
 h2 {
 display: inline-block;
@@ -45,7 +44,7 @@ background-image: url("https://abload.de/img/hamburgvyk99.jpg");
 display: flex;
 justify-content: center;
 align-items: center;
-padding-top: 45px; → Innenabstand (nach oben)
+padding-top: 45px; 
 }
 .more div { 
 background-size: cover;
